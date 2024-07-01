@@ -2,6 +2,14 @@
 
 Create a HTTP REST Server from scratch (no REST interpreter)
 
+## Usage
+```bash
+make
+./main
+```
+
+## Description 
+
 #### POST
 - Is used to create a sensor entity so that sensor values can be added later. 
 - Returns: 
