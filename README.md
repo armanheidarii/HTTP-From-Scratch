@@ -7,6 +7,7 @@ Create a HTTP REST Server from scratch (no REST interpreter)
 make
 ./main
 ```
+Server is up in 8080 port, you can change this port in src/main.cpp
 
 ## Description 
 
