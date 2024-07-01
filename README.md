@@ -1,7 +1,6 @@
 # DT065A: Implementing IoT Protocols from scratch
 
-## Project 0
-Warmup exercise for the course, create a HTTP REST Server from scratch (no REST interpreter)
+Create a HTTP REST Server from scratch (no REST interpreter)
 
 #### POST
 - Is used to create a sensor entity so that sensor values can be added later. 
