@@ -1,0 +1,13 @@
+#ignore binary files:
+*
+!*.*
+!*/
+!Makefile
+#-----
+
+.vscode/
+*.o
+*.exe
+
+*.db
+*.DS_Store
